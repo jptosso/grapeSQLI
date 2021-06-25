@@ -1,4 +1,4 @@
-module github.com/koangel/grapeSQLI
+module github.com/jptosso/grapeSQLI
 
 go 1.13
 
